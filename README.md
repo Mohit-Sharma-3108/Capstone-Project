@@ -1,5 +1,5 @@
 # Capstone-Project
-Hotel booking cancellations prediction.
+**Hotel booking cancellations prediction.**
 
 Hello!
 In this project I have tried to make a model that predicts if a customer is going to honour their booking or not.
